@@ -78,7 +78,4 @@ footer {
   .container:nth-child(2) {
     margin: 20px 5%;
   }
-  .step-img {
-    height: 150px;
-  }
 }
